@@ -1,7 +1,7 @@
  <h1> Hi, I’m <er>Arianna Fernández</h1>
  <h3>I’m majoring in Computer Science with a minor in Econ</h3>
   <div>
-   <image src="file:///C:/Users/arian/Downloads/TimelineCycle%20(1).html" />
+   <image src="https://ibb.co/bmRQzZg" />
   </div>
 - 👀 I’m interesting in expanding the economic impact and ensure the effective implementation of technological networks to develop support tools while upholding ethical standards.
   
