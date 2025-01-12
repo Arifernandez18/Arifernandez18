@@ -6,7 +6,7 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am a latina
 A charcter I feel related to is:
-<image src="https://pin.it/7911eP3PR" />
+<image src="[https://pin.it/7911eP3PR](https://i.pinimg.com/736x/c7/f1/0a/c7f10ae3e2d6ea078056b114b099676a.jpg)" />
 
 <!---
 Arifernandez18/Arifernandez18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
