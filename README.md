@@ -35,6 +35,10 @@
 <div>
    <h2>Harvard Model UN</h2>
 </div>
+
+<div>
+ <h2>Vice President of Student Council</h2><h5><i>Founded Several Clubs and organizations as Robotics, Biology and Arts club</h5>
+</div>
 <!---
 Arifernandez18/Arifernandez18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
