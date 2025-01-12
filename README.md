@@ -22,7 +22,7 @@
 
 <h1>Important projects and participation:</h1>
 <div>
-  <h2><i>World Robot Olympiad </i></h2>
+  <h2><i>World Robot Olympiad </i></h2><pa>https://github.com/Arifernandez18/World-Robot-Olympiad</pa>
 </div>
 
 <div>
