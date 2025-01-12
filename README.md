@@ -24,12 +24,14 @@
 <div>
   <h2><i>World Robot Olympiad </i></h2>
 </div>
+
 <div>
-   <h2><i>PEAAI Hackathon</i></h2>
+ <h2><i>PEAAI Hackathon</i></h2> 
+ <pa> https://github.com/Arifernandez18/PEAAII-Hackathon </pa> 
 </div>
-<div>
-   <h2>Soccer Clinics</h2>
-</div>
+
+<div><h2>Soccer Clinics</h2> </div>
+
 <div>
    <h2>Harvard Model UN</h2>
 </div>
