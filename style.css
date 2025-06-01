@@ -1,0 +1,127 @@
+:root {
+    --background-color: #f0f8ff; /* A lighter background */
+    --text-color: #333333; /* Darker text for better contrast */
+    --heading-color: #2e8b57; /* A teal heading color */
+    --accent-color: #4682b4; /* A steel blue accent color */
+    --light-green: #e0f2f1;
+    --lighter-green: #f0f9f8;
+    --button-color: #20b2aa; /* A lighter teal for buttons */
+    --button-hover-color: #008080;
+    --border-color: #b0c4de;
+    --highlight-color: #e6e6fa;
+}
+
+/* Base Styles */
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-size: 1em; /* Slightly larger base font */
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+}
+
+h1 {
+    color: var(--heading-color);
+    font-weight: bold;
+}
+
+h2 {
+    color: var(--accent-color);
+}
+
+a {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+/* Box Styles */
+.light-blue-box {
+    background-color: var(--light-green);
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid var(--border-color);
+}
+
+.light-green-box {
+    background-color: var(--lighter-green);
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid var(--border-color);
+}
+
+/* Button Styles */
+.resume-button {
+    background-color: var(--button-color);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.resume-button:hover {
+    background-color: var(--button-hover-color);
+}
+
+/* Highlight Style */
+.highlight {
+    background-color: var(--highlight-color);
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+/* Image Styles */
+.img-fluid.rounded-circle {
+    border: 3px solid var(--border-color);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+/* Main Info Styles */
+#maininfo {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 1.2em;
+    background-color: white;
+    border-radius: 10px; /* Rounded corners instead of a circle */
+    padding: 30px;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+/* Centered row style */
+.centered-row {
+    display: flex;
+    justify-content: center;
+}
+
+/* Header Styles */
+header {
+    background-color: #ffffff; /* Lighter header background */
+    color: var(--text-color);
+    padding: 15px 0;
+    border-bottom: 2px solid var(--border-color); /* Add a border */
+}
+
+header h1 {
+    color: var(--heading-color);
+    text-align: center;
+    font-family: 'Playwrite+TZ', sans-serif;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #ffffff; /* Lighter footer background */
+    color: var(--text-color);
+    padding: 15px 0;
+    text-align: center;
+    border-top: 2px solid var(--border-color); /* Add a border */
+}
+
+.card {
+    border: 1px solid var(--border-color);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* Subtle card shadow */
+}
